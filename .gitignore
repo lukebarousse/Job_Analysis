@@ -1,0 +1,5 @@
+.env
+chromedriver
+*.log
+*.csv
+.DS_Store
